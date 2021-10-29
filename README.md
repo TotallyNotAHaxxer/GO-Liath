@@ -54,14 +54,14 @@ GO-Liath is a Very VERY inteligent spider and web crawlers for subdomains and do
 
 # installs and usages 
 
-Install linux
+Install linux<br>
 `git clone https://github.com/ArkAngeL43/GO-Liath.git ; cd GO-Liath ; clear ; chmod +x ./install.sh ; ./install.sh `
 
 usage   | go run user.go <http url> <domain> <https url> pfg
 example | go run user.go http://example.com/ www.example.com https://www.example.com pfg
 
-Install Windows 
-install the fucking golang first
+Install Windows <br> 
+install the fucking golang first<br>
 go run user.go http://example.com/ www.example.com https://www.example.com pfg
 
 
