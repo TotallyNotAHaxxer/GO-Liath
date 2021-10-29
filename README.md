@@ -52,13 +52,13 @@ GO-Liath is a Very VERY inteligent spider and web crawlers for subdomains and do
 
 ```
 
-What is Go-Liath?
+# What is Go-Liath?
 
 Go-Liath is a very inteligent spider that can crawl domains, this main script is written from 90% golang, and not only is really fast but can crawl and gather any subdomain within a main URL
 
-what will it get? 
+# what will it get? 
 
-First it will gather the Information about the URL or website itself 
+# First it will gather the Information about the URL or website itself 
 
 ```
 [+] Connection Good....
@@ -94,7 +94,7 @@ First it will gather the Information about the URL or website itself
 
 ```
 
-Then it wil actually start scraping and gather the URL with an addition of XSSI testing, SQLI testing, Name server, and response code 
+# Then it wil actually start scraping and gather the URL with an addition of XSSI testing, SQLI testing, Name server, and response code 
 
 ```
 [*] URL Found ->  http://example.com/
