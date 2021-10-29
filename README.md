@@ -55,7 +55,7 @@ GO-Liath is a Very VERY inteligent spider and web crawlers for subdomains and do
 # installs and usages 
 
 Install linux
-`git clone https://github.com/ArkAngeL43/GO-Liath.git ; cd GO-Liath ; clear `
+`git clone https://github.com/ArkAngeL43/GO-Liath.git ; cd GO-Liath ; clear ; chmod +x ./install.sh ; ./install.sh `
 
 usage   | go run user.go <http url> <domain> <https url> pfg
 example | go run user.go http://example.com/ www.example.com https://www.example.com pfg
