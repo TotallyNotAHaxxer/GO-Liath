@@ -52,6 +52,20 @@ GO-Liath is a Very VERY inteligent spider and web crawlers for subdomains and do
 
 ```
 
+# installs and usages 
+
+Install linux
+`git clone https://github.com/ArkAngeL43/GO-Liath.git ; cd GO-Liath ; clear `
+
+usage   | go run user.go <http url> <domain> <https url> pfg
+example | go run user.go http://example.com/ www.example.com https://www.example.com pfg
+
+Install Windows 
+install the fucking golang first
+go run user.go http://example.com/ www.example.com https://www.example.com pfg
+
+
+
 # What is Go-Liath?
 
 Go-Liath is a very inteligent spider that can crawl domains, this main script is written from 90% golang, and not only is really fast but can crawl and gather any subdomain within a main URL
